@@ -4,3 +4,4 @@ node_modules/
 *.pkl
 node_modules/
 dist/
+*.pkl
