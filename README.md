@@ -1,7 +1,7 @@
 # Angular Projects by Samyakmedhe
 
-A collection of Angular-based web applications and mini-projects showcasing different features, design patterns, and functionalities.  
-These projects are aimed at building skills in frontend development using Angular, TypeScript, HTML, CSS, and relevant libraries/tools.
+A curated collection of Angular applications demonstrating modern frontend development practices.  
+Each project highlights Angular fundamentals, real-world use cases, and integration with APIs, styling frameworks, and state management.
 
 ---
 
@@ -9,40 +9,34 @@ These projects are aimed at building skills in frontend development using Angula
 
 - [Projects List](#projects-list)  
 - [Technologies Used](#technologies-used)  
-- [Getting Started](#getting-started)  
-- [How to Run a Specific Project](#how-to-run-a-specific-project)  
-- [Best Practices Demonstrated](#best-practices-demonstrated)  
-- [Contributing](#contributing)  
-- [License](#license)
 
 ---
 
 ## 🔍 Projects List
 
-Here are some of the Angular projects included in this repo:
+| Project | Description | Features |
+|---------|-------------|----------|
+| **Portfolio Website** | Personal website to showcase profile, projects, and contact info. | Responsive UI, routing, Tailwind styling |
+| **ToDo / Task Manager** | Manage tasks with add, update, delete, and mark-complete. | CRUD with Angular services, LocalStorage |
+| **Weather App** | Get live weather details via OpenWeather API. | API integration, search, error handling |
+| **Quiz App** | Multiple-choice quiz with score tracking. | Reactive forms, dynamic data binding |
+| **Blog App** | Simple content/blog system with posts and details page. | Routing, reusable components, services |
+| **File Upload Gallery** | Upload and preview files or images. | Angular HttpClient, progress tracking |
 
-| Project Name | Description |
-|--------------|-------------|
-| **Portfolio Website** | Personal portfolio showcasing your profile, projects, contact form, about section, etc. |
-| **ToDo / Task Manager** | An app to add, edit, delete tasks; marking completion; local storage or API persistence. |
-| **Weather App** | Fetch weather information from external API and display for searched cities. |
-| **Quiz / MCQ App** | A quiz app with multiple-choice questions, scoring, and feedback. |
-| **Blog / Content Management** | Simple blog UI: list posts, view post in detail, maybe comments. |
-| **File Upload / Gallery** | Upload files/images and display them in a gallery UI. |
-| (etc.) Add your actual project names & descriptions here |
+_(Update this table with your actual project folders and descriptions)_
 
 ---
 
 ## 🛠 Technologies Used
 
-- Angular (latest stable version)  
-- TypeScript  
-- HTML5 & CSS3 / SCSS  
-- Angular Router for navigation  
-- HttpClient for API calls  
-- Reactive Forms & Template-Driven Forms  
-- State management (if any – e.g. RxJS)  
-- Responsive design for mobile & desktop  
-- Optional: UI frameworks / component libraries (Bootstrap, Angular Material, Tailwind CSS, etc.)
+- **Angular CLI** – project scaffolding & development server  
+- **TypeScript** – strongly-typed JavaScript for maintainable code  
+- **HTML5 / CSS3 / SCSS** – structure & styling  
+- **Angular Router** – SPA navigation  
+- **RxJS** – reactive programming & async handling  
+- **HttpClient** – API requests and data exchange  
+- **Forms Module & Reactive Forms** – form handling  
+- **UI Libraries** – Bootstrap, Angular Material, Tailwind CSS (used per project)  
 
 ---
+
